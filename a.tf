@@ -1,3 +1,3 @@
 resource "ec2" {
-  name = "baz"
+  name = "blah"
 }
