@@ -1,0 +1,3 @@
+resource "iam" {
+  name = "foo"
+}
