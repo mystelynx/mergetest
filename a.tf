@@ -1,3 +1,6 @@
 resource "ec2" {
-  name = "blah"
+  name = "bbbbbb"
+}
+resource "ec2" {
+  name = "cccccc"
 }
